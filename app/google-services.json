@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869605447279",
+    "project_id": "fiadofacil",
+    "storage_bucket": "fiadofacil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869605447279:android:c44affed2f69fcd1ce1f9a",
+        "android_client_info": {
+          "package_name": "com.solucionesj.facilfiado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869605447279-3brvh4hcsp14l7bgenc09098asdchjkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVZevPYVel49h46Ypg2fDdDY4eAaX71Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869605447279-3brvh4hcsp14l7bgenc09098asdchjkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
